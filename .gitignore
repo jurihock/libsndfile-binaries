@@ -1,0 +1,8 @@
+flac-*
+libogg-*
+libsndfile-*
+libvorbis-*
+opus-*
+
+.DS_Store
+Thumbs.db
